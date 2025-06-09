@@ -1,4 +1,6 @@
 * [Início](/docs/README.md)
-* [Conectores](/docs/conectores.md)
-* [Autenticação](/docs/autenticacao.md)
-* [FAQ](/docs/faq.md)
+* Integrações
+  * [REST](/docs/rest.md)
+  * [SOAP](/docs/soap.md)
+  * [FILE](/docs/file.md)
+  * [BANCO DE DADOS](/docs/banco.md)
