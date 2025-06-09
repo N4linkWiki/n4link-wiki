@@ -15,8 +15,8 @@
   * [CENTRAL DE NOTIFICAÇÕES](/docs/central.md)
   * [UPLOAD DE ARQUIVO](/docs/upload.md)
 * Integrações
-  * [REST](/docs/rest.md)
-  * [SOAP](/docs/soap.md)
-  * [FILE](/docs/file.md)
-  * [BANCO DE DADOS](/docs/banco.md)
-  * [RFC / BAPI (SAP)](/docs/rfc.md)
+  * [FORMULARIO REST](/docs/rest.md)
+  * [FORMULARIO SOAP](/docs/soap.md)
+  * [FORMULARIO FILES](/docs/file.md)
+  * [FORMULARIO BANCO DE DADOS](/docs/banco.md)
+  * [FORMULARIO SAP RFC/BAPI)](/docs/rfc.md)
