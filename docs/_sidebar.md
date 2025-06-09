@@ -1,6 +1,7 @@
 * [Início](/docs/README.md)
-* Integrações
+* Acesso
   * [ACESSO A PLATAFORMA](/docs/acesso.md)
+* Integrações
   * [REST](/docs/rest.md)
   * [SOAP](/docs/soap.md)
   * [FILE](/docs/file.md)
