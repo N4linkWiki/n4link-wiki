@@ -7,7 +7,7 @@ Na opção de DRIVER você seleciona qual é o banco de dados, na URL vem o IP/E
 <table>
   <tr>
     <td align="center">
-      <img src="/n4link-wiki/assets/telas_n4link/extrator.png" width="500"/>
+      <img src="/n4link-wiki/assets/telas_n4link/extrator.png" width="800"/>
     </td>
   </tr>
 </table>
@@ -15,7 +15,7 @@ Na opção de DRIVER você seleciona qual é o banco de dados, na URL vem o IP/E
 <table>
   <tr>
     <td align="center">
-      <img src="/n4link-wiki/assets/telas_n4link/extrato2.png" width="500"/>
+      <img src="/n4link-wiki/assets/telas_n4link/extrato2.png" width="800"/>
     </td>
   </tr>
 </table>
@@ -23,7 +23,7 @@ Na opção de DRIVER você seleciona qual é o banco de dados, na URL vem o IP/E
 <table>
   <tr>
     <td align="center">
-      <img src="/n4link-wiki/assets/telas_n4link/extrator3.png" width="500"/>
+      <img src="/n4link-wiki/assets/telas_n4link/extrator3.png" width="800"/>
     </td>
   </tr>
 </table>
