@@ -1,6 +1,6 @@
 # Cadastro de variveis globais
 
-Painel onde somente os perfis configuradados como ADMINSITRADOR possui acesso, ou seja, você pode criar varíaveis que contém dados para autenticação por Exemplo e compartilhar com quem for criar os conectores somente os nomes das varíaveis, blindando assim o conteúdo, sem contar a produtividade em não ficar repetindo conteúdos de maneira desnecessárias em suas criaçãos de Contores.
+Painel aonde somente os perfis configuradados como ADMINSITRADOR possui acesso, ou seja, você pode criar varíaveis que contém dados para autenticação por exemplo e compartilhar com quem for criar os conectores somente os nomes das varíaveis, blindando assim o conteúdo, sem contar a produtividade em não ficar repetindo conteúdos de maneira desnecessárias em suas criaçãos de Contores.
 
 Tela que apresenta sua empresa e quantas varíaveis criadas você possui:
 
