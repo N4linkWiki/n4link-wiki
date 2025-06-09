@@ -46,6 +46,14 @@ A plataforma **N4LINK** é um iPaaS (Integration Platform as a Service) que cone
     <td align="center"><img src="/n4link-wiki/assets/logos/totvs-datasul.png" width="100"/></td>
     <td align="center"><img src="/n4link-wiki/assets/logos/totvs-protheus.png" width="100"/></td>
     <td align="center"><img src="/n4link-wiki/assets/logos/totvs-rm.png" width="100"/></td>
-    <td align="center"><img src="/n4link-wiki/assets/logos/varejo-online.png" width="100"/></td>
+    <td align="center"><img src="/n4link-wiki/assets/logos/astrein.png" width="100"/></td>
+    <td align="center"><img src="/n4link-wiki/assets/logos/bitrix.png" width="100"/></td>
+    <td align="center"><img src="/n4link-wiki/assets/logos/nexo.png" width="100"/></td>
+    <td align="center"><img src="/n4link-wiki/assets/logos/nimbi.png" width="100"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="/n4link-wiki/assets/logos/paradigma.png" width="100"/></td>
+    <td align="center"><img src="/n4link-wiki/assets/logos/siscomex.png" width="100"/></td>
+    <td align="center"><img src="/n4link-wiki/assets/logos/zanthus.png" width="100"/></td>
   </tr>
 </table>
