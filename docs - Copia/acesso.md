@@ -10,7 +10,7 @@ Para acessar a plataforma N4LINK basta utilizar a URL: [https://go.n4s-hip.com/s
   </tr>
 </table>
 
-Nossa plataforma exige o uso do MFA. No primeiro acesso, você será direcionado para a tela de leitura do QRCODE, onde poderá utilizar o aplicativo de sua preferência (Google Authenticator, Microsoft Authenticator, etc).
+Nossa plataforma exige o uso do MFA. No primeiro acesso, você será direcionado para a tela de leitura do QRCODE, onde poderá utilizar o aplicativo de sua preferência de sua preferência (Google Authenticator, Microsoft Authenticator, etc).
 
 <table>
   <tr>

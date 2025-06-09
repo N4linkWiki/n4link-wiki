@@ -34,5 +34,18 @@ A plataforma **N4LINK** é um iPaaS (Integration Platform as a Service) que cone
   <tr>
     <td align="center"><img src="/n4link-wiki/assets/logos/senior.png" width="100"/></td>
     <td align="center"><img src="/n4link-wiki/assets/logos/docusign.png" width="100"/></td>
+    <td align="center"><img src="/n4link-wiki/assets/logos/db2.png" width="100"/></td>
+    <td align="center"><img src="/n4link-wiki/assets/logos/firebird.png" width="100"/></td>
+    <td align="center"><img src="/n4link-wiki/assets/logos/mercado-eletronico.png" width="100"/></td>
+    <td align="center"><img src="/n4link-wiki/assets/logos/mysql.png" width="100"/></td>
+    <td align="center"><img src="/n4link-wiki/assets/logos/oracle-logo.png" width="100"/></td>
+    <td align="center"><img src="/n4link-wiki/assets/logos/postgresql.png" width="100"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="/n4link-wiki/assets/logos/sqlserver-logo.png" width="100"/></td>
+    <td align="center"><img src="/n4link-wiki/assets/logos/totvs-datasul.png" width="100"/></td>
+    <td align="center"><img src="/n4link-wiki/assets/logos/totvs-protheus.png" width="100"/></td>
+    <td align="center"><img src="/n4link-wiki/assets/logos/totvs-rm.png" width="100"/></td>
+    <td align="center"><img src="/n4link-wiki/assets/logos/varejo-online.png" width="100"/></td>
   </tr>
 </table>

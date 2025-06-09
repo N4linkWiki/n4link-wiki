@@ -1,6 +1,6 @@
 # Configuração de Agendamento
 
-Para agendamento temos as opções de recorrência, onde está pode ser por hora, minuto ou até mesmo segundos:
+Para agendamento temos as opções de recorrência, onde esta pode ser por hora, minuto ou até mesmo segundos:
 
 <table>
   <tr>
