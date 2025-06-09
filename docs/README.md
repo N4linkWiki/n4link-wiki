@@ -20,12 +20,8 @@ A plataforma **N4LINK** é um iPaaS (Integration Platform as a Service) que cone
     <br><small>SAP</small>
   </div>
   <div style="text-align:center">
-    <img src="assets/logos/protheus.png" alt="PROTHEUS" style="width:160px; height:auto;"/>
-    <br><small>PROTHEUS</small>
-  </div>
-  <div style="text-align:center">
-    <img src="assets/logos/totvs-rm.png" alt="TOTVS RM" style="width:160px; height:auto;"/>
-    <br><small>TOTVS-RM</small>
+    <img src="assets/logos/totvs.png" alt="TOTVS" style="width:160px; height:auto;"/>
+    <br><small>TOTVS</small>
   </div>
   <div style="text-align:center">
     <img src="assets/logos/salesforce.png" alt="SALESFORCE" style="width:160px; height:auto;"/>
