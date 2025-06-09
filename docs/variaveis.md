@@ -17,7 +17,7 @@ Novo cadastro de varíavel:
 <table>
   <tr>
     <td align="center">
-      <img src="/n4link-wiki/assets/telas_n4link/variavei1.png" width="1000"/>
+      <img src="/n4link-wiki/assets/telas_n4link/variaveis1.png" width="1000"/>
     </td>
   </tr>
 </table>
