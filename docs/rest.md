@@ -1,3 +1,3 @@
 # Integração via REST
 
-Em breve...
+Documentação em breve.

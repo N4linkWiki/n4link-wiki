@@ -4,3 +4,4 @@
   * [SOAP](/docs/soap.md)
   * [FILE](/docs/file.md)
   * [BANCO DE DADOS](/docs/banco.md)
+  * [RFC / BAPI (SAP)](/docs/rfc.md)

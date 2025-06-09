@@ -1,3 +1,3 @@
 # Integração via SOAP
 
-Em breve...
+Documentação em breve.

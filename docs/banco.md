@@ -1,3 +1,3 @@
 # Integração via Banco de Dados
 
-Em breve...
+Documentação em breve.

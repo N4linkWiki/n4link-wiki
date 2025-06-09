@@ -1,3 +1,3 @@
 # Integração via Arquivos
 
-Em breve...
+Documentação em breve.
