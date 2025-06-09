@@ -6,7 +6,6 @@ Para acessar a plataforma N4LINK basta utilizar a URL: [https://go.n4s-hip.com/s
   <tr>
     <td align="center">
       <img src="/n4link-wiki/assets/telas_n4link/login.png" width="800"/><br>
-      LOGIN
     </td>
   </tr>
 </table>
@@ -17,7 +16,6 @@ Nossa plataforma exige o uso do MFA. No primeiro acesso, você será direcionado
   <tr>
     <td align="center">
       <img src="/n4link-wiki/assets/telas_n4link/qrcode.png" width="800"/><br>
-      QRCODE
     </td>
   </tr>
 </table>
@@ -28,7 +26,6 @@ Após ler o QRCODE, clique no botão **"Continuar"** para ser direcionado à tel
   <tr>
     <td align="center">
       <img src="/n4link-wiki/assets/telas_n4link/mfa.png" width="800"/><br>
-      MFA
     </td>
   </tr>
 </table>
@@ -39,7 +36,6 @@ Se tudo estiver correto, você será direcionado para a página inicial da plata
   <tr>
     <td align="center">
       <img src="/n4link-wiki/assets/telas_n4link/home.png" width="800"/><br>
-      HOME
     </td>
   </tr>
 </table>
