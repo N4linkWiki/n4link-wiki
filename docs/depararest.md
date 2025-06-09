@@ -5,7 +5,7 @@ Sempre que o Destino for REST independente da tecnologia da origem (BANCO, SOAP,
 <table>
   <tr>
     <td align="center">
-      <img src="/n4link-wiki/assets/telas_n4link/depararest.png" width="1000"/>
+      <img src="/n4link-wiki/assets/telas_n4link/depararest.png" width="500"/>
     </td>
   </tr>
 </table>
@@ -15,7 +15,7 @@ Quando é utilizado o conceito de função ao entrar no editor da função (bot�
 <table>
   <tr>
     <td align="center">
-      <img src="/n4link-wiki/assets/telas_n4link/depararest1.png" width="1000"/>
+      <img src="/n4link-wiki/assets/telas_n4link/depararest1.png" width="500"/>
     </td>
   </tr>
 </table>
