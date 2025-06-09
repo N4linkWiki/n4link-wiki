@@ -1,6 +1,14 @@
 * [Início](/docs/README.md)
-* Acesso
+* Acessos / Estrutura de navegação
   * [ACESSO A PLATAFORMA](/docs/acesso.md)
+  * [ESTRUTURA DE NAVEGAÇÃO](/docs/navegacao.md)
+* Funcionalidades de cada opção
+  * [SERVIÇOS EM EXECUÇÃO](/docs/servicos.md)
+  * [VALIDAR COMUNICAÇÃO](/docs/validar.md)
+  * [EXTRATOR DE DADOS](/docs/extrator.md)
+  * [VARIÁVEIS GLOBAIS](/docs/variaveis.md)
+  * [CENTRAL DE NOTIFICAÇÕES](/docs/central.md)
+  * [UPLOAD DE ARQUIVO](/docs/upload.md)
 * Integrações
   * [REST](/docs/rest.md)
   * [SOAP](/docs/soap.md)
