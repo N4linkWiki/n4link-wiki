@@ -1,33 +1,45 @@
-# Acesso a plataforma
+# Acesso à Plataforma
 
-Para acessar a plataforma N4LINK basta utilizar a URL: https://go.n4s-hip.com/signin digitar eu e-mail e senha que foi fornecido pela nossa equipe:
-
-<table>
-  <tr>
-    <td align="center"><img src="/n4link-wiki/assets/telas_n4link/login.png" width="800"/><br>LOGIN</td>
-  </tr>
-</td>
-
-Nossa plataforma exige o uso do MFA, então se for o seu primeiro acesso você vai ser direcionado para a tela de leitura do QRCODE, aonde o aplicativo a ser utilizado pode ser o da sua preferencia (Google Authenticaton, Microsoft Authenticator...)
+Para acessar a plataforma N4LINK basta utilizar a URL: [https://go.n4s-hip.com/signin](https://go.n4s-hip.com/signin), digitar seu e-mail e senha fornecidos pela nossa equipe:
 
 <table>
   <tr>
-    <td align="center"><img src="/n4link-wiki/assets/telas_n4link/qrcode.png" width="800"/><br>QRCODE</td>
+    <td align="center">
+      <img src="/n4link-wiki/assets/telas_n4link/login.png" width="800"/><br>
+      LOGIN
+    </td>
   </tr>
-</td>
+</table>
 
-Após ler o QRCODE, clicar no botão continuar para ser direcionado para a tela de preenchimento do código:
+Nossa plataforma exige o uso do MFA. No primeiro acesso, você será direcionado para a tela de leitura do QRCODE, onde poderá utilizar o aplicativo de sua preferência (Google Authenticator, Microsoft Authenticator, etc).
 
 <table>
   <tr>
-    <td align="center"><img src="/n4link-wiki/assets/telas_n4link/mfa.png" width="800"/><br>MFA</td>
+    <td align="center">
+      <img src="/n4link-wiki/assets/telas_n4link/qrcode.png" width="800"/><br>
+      QRCODE
+    </td>
   </tr>
-</td>
+</table>
 
-Se tudo estiver correto, você estará nesse momento em nossa página inicial:
+Após ler o QRCODE, clique no botão **"Continuar"** para ser direcionado à tela de preenchimento do código MFA:
 
 <table>
   <tr>
-    <td align="center"><img src="/n4link-wiki/assets/telas_n4link/home.png" width="800"/><br>HOME</td>
+    <td align="center">
+      <img src="/n4link-wiki/assets/telas_n4link/mfa.png" width="800"/><br>
+      MFA
+    </td>
   </tr>
-</td>
+</table>
+
+Se tudo estiver correto, você será direcionado para a página inicial da plataforma:
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="/n4link-wiki/assets/telas_n4link/home.png" width="800"/><br>
+      HOME
+    </td>
+  </tr>
+</table>
