@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="/n4link-wiki/assets/logos/logo-n4link.png" alt="N4LINK" width="150" />
+</p>
+
+
 * [Início](/docs/README.md)
 * Acessos / Estrutura de navegação
   * [ACESSO A PLATAFORMA](/docs/acesso.md)
