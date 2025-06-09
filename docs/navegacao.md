@@ -5,7 +5,7 @@ A nossa estrutura de navegação é baseada no menu que fica na lateral esquerda
 <table>
   <tr>
     <td align="center">
-      <img src="/n4link-wiki/assets/telas_n4link/integracoes.png" width="500"/><br>
+      <img src="/n4link-wiki/assets/telas_n4link/integracoes.png" width="200"/><br>
     </td>
   </tr>
 </table>
@@ -15,7 +15,7 @@ No menu Painel de Controle na opção Serviços em Execução, você tera acesso
 <table>
   <tr>
     <td align="center">
-      <img src="/n4link-wiki/assets/telas_n4link/painel.png" width="500"/><br>
+      <img src="/n4link-wiki/assets/telas_n4link/painel.png" width="200"/><br>
     </td>
   </tr>
 </table>
