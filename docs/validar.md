@@ -5,7 +5,7 @@ Nesta tela você consgue validar se o endereço de origem (N4LINK) que pode ser 
 <table>
   <tr>
     <td align="center">
-      <img src="/n4link-wiki/assets/telas_n4link/tlnet.png" width="500"/><br>
+      <img src="/n4link-wiki/assets/telas_n4link/telnet.png" width="500"/>
     </td>
   </tr>
 </table>
@@ -13,7 +13,7 @@ Nesta tela você consgue validar se o endereço de origem (N4LINK) que pode ser 
 <table>
   <tr>
     <td align="center">
-      <img src="/n4link-wiki/assets/telas_n4link/tlnet2.png" width="500"/><br>
+      <img src="/n4link-wiki/assets/telas_n4link/telnet2.png" width="500"/>
     </td>
   </tr>
 </table>
