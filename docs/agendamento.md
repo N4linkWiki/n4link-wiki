@@ -5,7 +5,7 @@ Para agendamento temos as opções de recorrência, onde esta pode ser por hora,
 <table>
   <tr>
     <td align="center">
-      <img src="/n4link-wiki/assets/telas_n4link/agendamento.png" width="1000"/>
+      <img src="/n4link-wiki/assets/telas_n4link/agendamento.png" width="500"/>
     </td>
   </tr>
 </table>
@@ -15,7 +15,7 @@ A opção de execução diária, onde é informado um horário para execução:
 <table>
   <tr>
     <td align="center">
-      <img src="/n4link-wiki/assets/telas_n4link/agendamento1.png" width="1000"/>
+      <img src="/n4link-wiki/assets/telas_n4link/agendamento1.png" width="500"/>
     </td>
   </tr>
 </table>
@@ -25,7 +25,7 @@ Agendamento semanal, onde é possível pontuar um ou mais dias da semana e qual 
 <table>
   <tr>
     <td align="center">
-      <img src="/n4link-wiki/assets/telas_n4link/agendamento2.png" width="1000"/>
+      <img src="/n4link-wiki/assets/telas_n4link/agendamento2.png" width="500"/>
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@ Agendamento mensal, onde é possível inofrmar apenas um dia do mês para execu�
 <table>
   <tr>
     <td align="center">
-      <img src="/n4link-wiki/assets/telas_n4link/agendamento3.png" width="1000"/>
+      <img src="/n4link-wiki/assets/telas_n4link/agendamento3.png" width="500"/>
     </td>
   </tr>
 </table>
@@ -45,7 +45,7 @@ Agendamento do tipo FAIXA onde é possivel informar um range de horas do dia par
 <table>
   <tr>
     <td align="center">
-      <img src="/n4link-wiki/assets/telas_n4link/agendamento4.png" width="1000"/>
+      <img src="/n4link-wiki/assets/telas_n4link/agendamento4.png" width="500"/>
     </td>
   </tr>
 </table>
