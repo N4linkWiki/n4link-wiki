@@ -1,3 +1,3 @@
 # Integração via REST
 
-Documentação em breve.
+Para a configuração de API's Rest basta n

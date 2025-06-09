@@ -18,7 +18,7 @@ A plataforma **N4LINK** é um iPaaS (Integration Platform as a Service) que cone
     <td align="center"><img src="/n4link-wiki/assets/logos/salesforce.png" width="100"/><br>SALESFORCE</td>
     <td align="center"><img src="/n4link-wiki/assets/logos/rdstation.png" width="100"/><br>RD STATION</td>
     <td align="center"><img src="/n4link-wiki/assets/logos/pagseguro-novo.png" width="100"/><br>PAGSEGURO</td>
-    <td align="center"><img src="/n4link-wiki/assets/logos/oroacle.png" width="100"/><br>ORACLE</td>
+    <td align="center"><img src="/n4link-wiki/assets/logos/oracle.png" width="100"/><br>ORACLE</td>
     <td align="center"><img src="/n4link-wiki/assets/logos/sapb1.png" width="100"/><br>SAP B1</td>
   </tr>
   <tr>
@@ -33,7 +33,6 @@ A plataforma **N4LINK** é um iPaaS (Integration Platform as a Service) que cone
   </tr>
   <tr>
     <td align="center"><img src="/n4link-wiki/assets/logos/senior.png" width="100"/><br>SENIOR</td>
+    <td align="center"><img src="/n4link-wiki/assets/logos/docusign.png" width="100"/><br>DOCUSIGN</td>
   </tr>
 </table>
-
-> Os demais logos serão adicionados em breve.
