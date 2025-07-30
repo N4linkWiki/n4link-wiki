@@ -10,4 +10,26 @@ Aqui conforme relatado anteriormente, são as filas ativas em nossa plataforma, 
   </tr>
 </table>
 
-Na coluna fila é exibido o seu codigo de empresa no N4LINK + ID do conector, na coluna empresa o seu nome de empresa cadastrado, a coluna status indica a situação atual da fila, VERDE indica que está em execução, AMARELO indica que está em processo de parar/reiniciar e VERMELHO indica que está parada. Ja na coluna ações temos os botões: DELETE que elimina as mensagens da fila, na sequencia já para a fila e sobe ela novamente, o botão PURGE que apenas elimina as mensagens atuais da fila, o botão vermelho (-) é o botão que manda parar a fila, o botão de RESTART botão azul com duas setas uma de encontro uma com a outra serve para parar e ja subir novamente a fila, e o botão PLAY botão verde serve para iniciar uma fila que esteja parada.
+Nesta opção, é possível verificar as filas ativas na plataforma N4LINK, onde é mostrado o ID do conector após o hífem na coluna FILA.
+
+COLUNA FILA:
+É exibido o seu código de empresa na plataforma N4LINK + ID do conector.
+
+COLUNA EMPRESA:
+É exibido o nome de empresa cadastrado.
+
+COLUNA STATUS:
+Indica a situação atual da fila:
+
+- VERDE indica que está em execução;
+- AMARELO indica que está em processo de parar/reiniciar;
+- VERMELHO indica que está parada.
+
+COLUNA AÇÕES:
+BOTÃO DELETE - elimina as mensagens da fila, na sequência já para a fila e sobe ela novamente (NÂO ENTENDI O QUIS DIZER NESSA PARTE!!!!!)
+
+BOTÃO PURGE - elimina as mensagens atuais da fila, sendo:
+
+- Botão vermelho (-) é o botão que para a fila;
+- Botão de RESTART - azul com duas setas, uma de encontro a outra - serve para parar e subir novamente a fila;
+- Botão PLAY - verde - inicia a fila que está parada.
