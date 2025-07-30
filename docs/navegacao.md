@@ -10,7 +10,26 @@ A nossa estrutura de navegação é baseada no menu que fica na lateral esquerda
   </tr>
 </table>
 
-No menu Painel de Controle na opção Serviços em Execução, você tera acesso a todas filas ativas, cada conector em nossa plataforma possui sua fila própria, por Exemplo você está integrando clientes e produtos, você terá uma fila para cada tema, onde você pode parar essa fila, reiniciar, ou até mesmo eliminar mensagens dela, vamos dizer que você disparou uma massa muito grande por equívo e quer parar de maneira imediata, vai existir uma opção para isso, ja na opção validar comunicação é um facilitador onde a plataforma tenta fechar via TELNET a comunição com a URL fornecida, Extrator de dados seria uma ferramenta como se fosse um estudio SQL, onde você pode rodar sintaxes em seu banco, caso seja o seu modelo e exportar para um excel ou até mesmo valiadr a sintaxe das consultas, Variveis Globais seria uma maneira de cadastrar conteúdos, seja para não deixar exposto no conector por Exemplo um token, ou até mesmo facilitar construções utilizando essas varíaveis sem precisar ficar repetindo conteúdos sempre, Central de Notificação é a opção para criar alertas, onde de maneira ativa a plataforma envia um e-mail de acordo com o que foi configurado, Exemplo, você quer um alerta para toda vez que a resposta do destino voltar ERRO 500 no corpo seja enviado um e-mail para a TI, ja a opção UPLOAD DE ARQUIVO será para subir arquivos csv, txt em uma tabela do N4LNK, onde os conteudos desse arquivo podem ser acessados pelos conectores, Exemplo de uso você vai descer vendas de um ecommerce para o ERP, no ERP é obrigatório um cadastro em especifico, que não vem do ecommecer, mas tem como criar alguma regra a partir de um campo do ecommerce onde seria possível posicionar na planilha do Excel e ver qual seria o conteúdo correto para enviar para o ERP.
+SERVIÇOS EM EXECUÇÃO:
+No menu Painel de Controle na opção Serviços em Execução, você terá acesso a todas filas ativas e cada conector em nossa plataforma possui sua fila própria. Ou seja, haverá uma uma fila para cada tema com opão de "PARAR" a fila, "REINICIAR", ou até mesmo "ELIMINAR" mensagens. 
+
+VALIDAR COMUNICAÇÃO:
+Serve como um facilitador para que a plataforma feche via TELNET a comunição com a URL fornecida.
+
+EXTRATOR DE DADOS:
+Ferramenta semelhante ao estúdio SQL. Aqui é possível rodar sintaxes em seu banco, caso seja o seu modelo e exportar para um excel ou até mesmo validar a sintaxe das consultas.
+
+VARIÁVEIS GLOBAIS:
+É uma forma de cadastrar conteúdos, seja para não deixar exposto no conector ou até mesmo facilitar construções utilizando essas varíaveis sem precisar ficar repetindo conteúdos.
+
+CENTRAL DE NOTIFICAÇÕES: 
+Cria alertas de maneira ativa, ou seja, a plataforma envia um e-mail de acordo com o que foi configurado, Exemplo: 
+Você deseja criar um alerta para sempre que a resposta do destino voltar ERRO 500, seja enviado automaticamente um e-mail para a TI.
+
+UPLOAD DE ARQUIVO:
+Fazer uploads de arquivos csv, txt em uma tabela do N4LNK, com possibilidade de acessar os conteúdos pelos conectores
+Exemplo:
+Para gerar as vendas do e-commerce para o ERP é obrigatório o cadastro em especifico, mas os dados não são transmitidos do e-commerce, mas com essa função, é possível criar uma regra a partir de um campo do e-commerce para uma planilha do Excel e determinar o  conteúdo correto para enviar para o ERP.
 
 <table>
   <tr>
