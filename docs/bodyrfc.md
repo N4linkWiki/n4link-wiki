@@ -1,6 +1,9 @@
 # Configuração de body quando o destino é SAP RFC/BAPI
 
-Quando o destino é banco você pode utilizar o conceito de duas chaves abrindo e fechando informando o nome de atributo que chegou na origem a ser utilizado, então você estrutura sua procedure de maneira completa, INSERT, SELECT, UPDATE, o que for, e onde desejar troca os conteúdos de acordo com os atributos que chegam na origem, no exemplo abaixo estamos chamadno umap rocedure BDIPIERPROD onde no parametro CodBarras por exemplo pegamos o conteudo do atributo CODBARRAS que chega da origem REST.
+Quando o destino é banco é possível utilizar o conceito de duas chaves: abrindo e fechando informando o nome de atributo que chegou na origem a ser utilizado.
+A partir dai, é possível estruturar sua procedure de maneira completa (INSERT, SELECT, UPDATE, etc) e onde desejar trocar os conteúdos de acordo com os atributos que chegam na origem.
+
+No exemplo abaixo estamos chamando uma procedure BDIPIERPROD onde no parâmetro CodBarras está sendo utilizado o conteúdo do atributo CODBARRAS que chega da origem REST.
 
 <table>
   <tr>

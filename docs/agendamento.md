@@ -1,6 +1,6 @@
 # Configuração de Agendamento
 
-Para agendamento temos as opções de recorrência, onde está pode ser por hora, minuto ou até mesmo segundos:
+Para agendamento, há as opções de recorrência, divididos por hora, minuto ou segundos:
 
 <table>
   <tr>
@@ -10,7 +10,7 @@ Para agendamento temos as opções de recorrência, onde está pode ser por hora
   </tr>
 </table>
 
-A opção de execução diária, onde é informado um horário para execução:
+Execução diária - é informado um horário para execução:
 
 <table>
   <tr>
@@ -20,7 +20,7 @@ A opção de execução diária, onde é informado um horário para execução:
   </tr>
 </table>
 
-Agendamento semanal, onde é possível pontuar um ou mais dias da semana e qual horário executar:
+Agendamento semanal - pontua um ou mais dias da semana e qual horário executar:
 
 <table>
   <tr>
@@ -30,7 +30,7 @@ Agendamento semanal, onde é possível pontuar um ou mais dias da semana e qual 
   </tr>
 </table>
 
-Agendamento mensal, onde é possível inofrmar apenas um dia do mês para execução e qual o horário:
+Agendamento mensal - informa apenas um dia do mês para execução e qual o horário:
 
 <table>
   <tr>
@@ -40,7 +40,8 @@ Agendamento mensal, onde é possível inofrmar apenas um dia do mês para execu�
   </tr>
 </table>
 
-Agendamento do tipo FAIXA onde é possivel informar um range de horas do dia para a execução e de quanto em quanto tempo, no exemplo abaixo foi configurado para rodar da meia noite até as seis da manhã, fazendo um disparo a cada 30 minutos.
+Agendamento do tipo FAIXA - informa um range de horas do dia para a execução e de quanto em quanto tempo.
+No exemplo abaixo foi configurado para rodar da meia noite até ´às seis da manhã, com um disparo a cada 30 minutos.
 
 <table>
   <tr>

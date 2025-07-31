@@ -1,6 +1,6 @@
 # Upload de Arquivos
 
-Nesta interface você pode subir arquivos para utilizar o conteúdos destes nos seus conectores, seja para enriquecer um dado, validar algum dado, ou seja, ter dados na plataforma, onde nenhuma das pontas integradas conseguiria informar estes.
+Nesta interface, é possível subir arquivos para utilizar o conteúdos nos seus conectores, seja para enriquecer ou validar um dado. Isto é, ter dados na plataforma onde nenhuma das pontas integradas conseguiria informar.
 
 Tela que apresenta quantos arquivos você subiu para sua empresa:
 
@@ -12,7 +12,11 @@ Tela que apresenta quantos arquivos você subiu para sua empresa:
   </tr>
 </table>
 
-Tela para configuração de subida de um novo arquivo, onde você seleciona o tipo no Exemplo abaixo CSV, qual o delimitador de conteúdos que no caso abaixo foi ponto e vírgula (;), seleciona o arquivo a ser subido no caso abaixo convert.csv e após isso salva para confirmar a subida.
+Tela para configuração de upload de um novo arquivo.
+- Selecione o tipo (no exemplo abaixo: CSV);
+- Qual o delimitador de conteúdos (no exemplo: ponto e vírgula (;));
+- Selecione o arquivo que quer fazer upload (no exemplo: convert.csv);
+- Salve para confirmar o upload.
 
 <table>
   <tr>

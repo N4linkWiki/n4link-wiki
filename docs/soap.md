@@ -1,6 +1,6 @@
 # Integração via SOAP
 
-Para a configuração de integrações com origem SOAP, menu Integrações - Cadastro de SOAP você tera como tela inicial:
+Para a configuração de integrações com origem SOAP, menu Integrações - Cadastro de SOAP , aparecerá como tela inicial:
 
 <table>
   <tr>
@@ -10,9 +10,17 @@ Para a configuração de integrações com origem SOAP, menu Integrações - Cad
   </tr>
 </table>
 
-onde para o conectores ja criados você encontra os botões de LOG responsável por armazenar todos os dados de uma transação executada, botão VIEW que apresenta dados que foram armazenados em um tabela intermediaria, conceito utilizado quando normlamente no sistema de origem você não consegue controlar o que ja foi integrado, para assim tratar se deve enviar novamente ou não, botão LAYOUT que armazena toda a configuração do conector, botão CONTROLE DE VERSÕES que seria o botão cinza ao do lado botão layout, botão de CÓPIA que é um facilitador caso tenha como reaproveitar as coisas de um conector ja feito e o botão PLAY que é utilizado para disparar a integração de maneira imediata.
+Para os conectores já criados você visualizará:
+. Botões de LOG - responsáveis por armazenar todos os dados de uma transação executada;
+. Botão VIEW - apresenta dados que foram armazenados em um tabela intermediária, conceito utilizado quando normalmente no sistema de origem não é possível controlar o que ja foi integrado para ser reenviado ou não;
+. Botão LAYOUT - armazena toda a configuração do conector.
+. Botão CONTROLE DE VERSÕES - botão cinza ao do lado botão LAYOUT;
+. Botão de CÓPIA -  é um facilitador. Neste item, é possível reaproveitar configurações de um conector já produzido;
+. Botão PLAY -  é utilizado para disparar a integração de maneira imediata.
 
-Na configuração do conector seja um novo ou alteração de um existente, o preenchimento do formulário SOAP é bem parecido com ferramentas de uso para teste de API's de mercado, como por Exemplo o SOAPUI, você seleciona se deve ser verificado o certificado do endereço a ser conumido ou não, insere o WSDL que contém os métodos, se for uma API paginada qual o conceito de paginação, se tiver autorização qual o tipo de autorização utilizado, e os dados do HEADER, onde o HEADER é dinimico é pode ser inserido quantos forem necessário pelo botão de adicionar (+)
+Na configuração do conector, seja um novo ou alteração de um existente, o preenchimento do formulário SOAP é bem semelhante à ferramentas de uso para teste de API's de mercado.
+Por exemplo o SOAPUI, é selecionado o que deve ser verificado, o certificado do endereço a ser conumido ou não, insere o WSDL que contém os métodos. 
+Caso seja uma API paginada, qual o conceito de paginação, se existir autorização qual o tipo utilizado, e os dados do HEADER, que é dinâmico e pode ser inserido quantos forem necessário pelo botão de adicionar (+).
 
 <table>
   <tr>

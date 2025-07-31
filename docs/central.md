@@ -1,8 +1,10 @@
 # Central de notificações
 
-Central para configuração de aletas de maneira ativa via e-mail, aqui você pode criar regras especifícas para qunado a condição for valida em tempo de execução da integração disparar um e-mail para o responsável pela analíse do erro.
+Central para configuração de aletas de maneira ativa via e-mail. 
+É possível criar regras especifícas para quando a condição for válida e disparar um e-mail para o responsável pela análise do erro.
 
 Tela inicial que apresenta sua empresa e quantos alertas você possui cadastrados:
+
 
 <table>
   <tr>
@@ -22,7 +24,7 @@ Tela para criação de um novo alerta:
   </tr>
 </table>
 
-Exemplo de criação da estrutura do e-mail, onde o conteúdo '{{destiny}}' é uma variavel global da plataforma N4LINK que armazena toda a resposta do destino.
+Exemplo de criação da estrutura do e-mail, onde o conteúdo '{{destiny}}' é uma variavel global da plataforma N4LINK que armazena toda a resposta do destino.
 
 <table>
   <tr>
